@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AlarmClock</string>
+    <string name="alarm_name">アラーム名</string>
+    <string name="action_save">保存</string>
+    <string name="action_delete">削除</string>
+    <string name="alarm_save_msg">アラームを設定しました</string>
+    <string name="alarm_delete_msg">アラームを削除しました</string>
+    <string name="title_wake_up">おはようございます</string>
+    <string name="title_confirm">アラーム管理</string>
+    <string name="request_code">リクエストコード</string>
+    <string name="alarm_id">アラームID</string>
+</resources>
