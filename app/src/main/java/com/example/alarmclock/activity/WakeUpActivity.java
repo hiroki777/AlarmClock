@@ -43,8 +43,5 @@ public class WakeUpActivity extends AppCompatActivity {
                 stopService(new Intent(WakeUpActivity.this, SoundService.class));
             }
         });
-
-
     }
-
 }
