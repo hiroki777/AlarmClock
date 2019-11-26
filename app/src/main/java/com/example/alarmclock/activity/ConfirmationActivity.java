@@ -102,6 +102,5 @@ public class ConfirmationActivity extends AppCompatActivity {
     private void updateRV(ArrayList<ListItem> data){
         adapter = new ListAdapter(data);
         rv.setAdapter(adapter);
-        // rv.swapAdapter(adapter,false);
     }
 }
