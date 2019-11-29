@@ -7,7 +7,6 @@ import androidx.recyclerview.widget.RecyclerView;
 
 import com.example.alarmclock.R;
 
-import org.w3c.dom.Text;
 
 public class ListViewHolder extends RecyclerView.ViewHolder {
     TextView alarmName;

@@ -1,7 +1,5 @@
 package com.example.alarmclock.listcomponent;
 
-import java.util.Date;
-
 public class ListItem {
 
     private int alarmID = -1;

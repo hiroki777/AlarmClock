@@ -15,7 +15,6 @@ import com.example.alarmclock.receiver.AlarmReceiver;
 
 import java.util.ArrayList;
 import java.util.Calendar;
-import java.util.Date;
 
 public class Util {
 

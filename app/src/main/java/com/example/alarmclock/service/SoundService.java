@@ -2,17 +2,12 @@ package com.example.alarmclock.service;
 
 import android.app.Service;
 import android.content.Intent;
-import android.media.AudioManager;
 import android.media.MediaPlayer;
-import android.net.Uri;
 import android.os.IBinder;
 
 import androidx.annotation.Nullable;
-import androidx.annotation.RawRes;
 
 import com.example.alarmclock.R;
-
-import java.io.IOException;
 
 // 参考 https://github.com/hiroaki-dev/AlarmSample/blob/master/app/src/main/java/me/hiroaki/alarmsample/PlaySoundService.java
 
